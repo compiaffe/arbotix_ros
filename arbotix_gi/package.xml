@@ -1,5 +1,5 @@
 <package>
-  <name>arbotix</name>
+  <name>arbotix_gi</name>
   <version>0.10.0</version>
   <description>ArbotiX Drivers</description>
   <author>Michael Ferguson</author>
